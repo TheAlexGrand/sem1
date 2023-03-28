@@ -9,8 +9,8 @@ string TwoNum = Console.ReadLine();
 int Two = Convert.ToInt32(TwoNum);
 
 if (One > Two) {
-    Console.WriteLine($"Большее число {One}, а меньшее {Two}");
+    Console.WriteLine($"Большее число {One}, меньшее {Two}");
 } 
 else {
-    Console.WriteLine($"Большее число {Two}, а меньшее {One}");
+    Console.WriteLine($"Большее число {Two}, меньшее {One}");
 }

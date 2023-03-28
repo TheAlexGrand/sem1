@@ -1,0 +1,15 @@
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\bin\Debug\net6.0\hw3sem2.exe
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\bin\Debug\net6.0\hw3sem2.deps.json
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\bin\Debug\net6.0\hw3sem2.runtimeconfig.json
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\bin\Debug\net6.0\hw3sem2.dll
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\bin\Debug\net6.0\hw3sem2.pdb
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\obj\Debug\net6.0\hw3sem2.csproj.AssemblyReference.cache
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\obj\Debug\net6.0\hw3sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\obj\Debug\net6.0\hw3sem2.AssemblyInfoInputs.cache
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\obj\Debug\net6.0\hw3sem2.AssemblyInfo.cs
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\obj\Debug\net6.0\hw3sem2.csproj.CoreCompileInputs.cache
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\obj\Debug\net6.0\hw3sem2.dll
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\obj\Debug\net6.0\refint\hw3sem2.dll
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\obj\Debug\net6.0\hw3sem2.pdb
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\obj\Debug\net6.0\hw3sem2.genruntimeconfig.cache
+C:\Users\79110\Desktop\sem1\dz2\hw3sem2\obj\Debug\net6.0\ref\hw3sem2.dll
