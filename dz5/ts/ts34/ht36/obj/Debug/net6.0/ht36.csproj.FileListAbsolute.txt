@@ -1,0 +1,15 @@
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\bin\Debug\net6.0\ht36.exe
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\bin\Debug\net6.0\ht36.deps.json
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\bin\Debug\net6.0\ht36.runtimeconfig.json
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\bin\Debug\net6.0\ht36.dll
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\bin\Debug\net6.0\ht36.pdb
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\obj\Debug\net6.0\ht36.csproj.AssemblyReference.cache
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\obj\Debug\net6.0\ht36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\obj\Debug\net6.0\ht36.AssemblyInfoInputs.cache
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\obj\Debug\net6.0\ht36.AssemblyInfo.cs
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\obj\Debug\net6.0\ht36.csproj.CoreCompileInputs.cache
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\obj\Debug\net6.0\ht36.dll
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\obj\Debug\net6.0\refint\ht36.dll
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\obj\Debug\net6.0\ht36.pdb
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\obj\Debug\net6.0\ht36.genruntimeconfig.cache
+C:\Users\79110\Desktop\sem1\dz5\ts\ts34\ht36\obj\Debug\net6.0\ref\ht36.dll
