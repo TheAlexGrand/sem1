@@ -1,0 +1,15 @@
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\bin\Debug\net6.0\ts66.exe
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\bin\Debug\net6.0\ts66.deps.json
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\bin\Debug\net6.0\ts66.runtimeconfig.json
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\bin\Debug\net6.0\ts66.dll
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\bin\Debug\net6.0\ts66.pdb
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\obj\Debug\net6.0\ts66.csproj.AssemblyReference.cache
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\obj\Debug\net6.0\ts66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\obj\Debug\net6.0\ts66.AssemblyInfoInputs.cache
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\obj\Debug\net6.0\ts66.AssemblyInfo.cs
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\obj\Debug\net6.0\ts66.csproj.CoreCompileInputs.cache
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\obj\Debug\net6.0\ts66.dll
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\obj\Debug\net6.0\refint\ts66.dll
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\obj\Debug\net6.0\ts66.pdb
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\obj\Debug\net6.0\ts66.genruntimeconfig.cache
+C:\Users\79110\Desktop\sem1\dz8\ts62\ts66\obj\Debug\net6.0\ref\ts66.dll
