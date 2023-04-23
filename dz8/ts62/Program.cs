@@ -8,10 +8,10 @@ Console.Write("Введите первое число: ");
 int number1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе число: ");
 int number2 = Convert.ToInt32(Console.ReadLine());
-NaturalTo2(number1, number2);
+NaturalFrom1To2(number1, number2);
 
 
-void NaturalTo2(int number1, int number2)
+void NaturalFrom1To2(int number1, int number2)
 {
     if (number2 > number1)
     {
@@ -19,7 +19,7 @@ void NaturalTo2(int number1, int number2)
     }
     else
     {
-        NaturalTo2(number1, number2 + 1);
+        NaturalFrom1To2(number1, number2 + 1);
         Console.Write(number2 + " ");
     }
 }
